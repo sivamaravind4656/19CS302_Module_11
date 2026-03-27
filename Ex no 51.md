@@ -18,8 +18,8 @@ To write a C program to reverse a string.
 ```
 /*
 C program to reverse a string.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: aravindhan K A P
+RegisterNumber:  212222063001
 */
 #include <stdio.h>
 #include <string.h>
