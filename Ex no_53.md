@@ -16,10 +16,7 @@ To write a C program to remove duplicates in an array.
 
 ## Program:
 ```
-/*
-C program to remove duplicates in an array
-Developed by: SARATH KUMAR.K
-RegisterNumber: 212222063014
+/
 */
 
 #include <stdio.h>
