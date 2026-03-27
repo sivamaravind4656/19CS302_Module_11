@@ -20,8 +20,8 @@ To write a C program to find a square of number using function with arguments wi
 ```
 /*
 C program to find a square of number using function with arguments without return type.
-Developed by: SARATH KUMAR.K
-RegisterNumber: 212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber: 212222063001
 */
 #include <stdio.h>
 
